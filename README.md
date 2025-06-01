@@ -122,9 +122,14 @@ Store search history
 Add weather alerts
 
 # Output
-**weather search for Delhi on May 31/2025**
 
+**weather search for Hyderabad on June 01/2025**
 
-**weather search in dark mode for Ongole on May 31/2025**
+![Image](https://github.com/user-attachments/assets/e931c95f-5703-4a43-8201-92cb2ed5c8c0)
+
+**weather search in dark mode for Guntur on June 01/2025**
+
+![Image](https://github.com/user-attachments/assets/5241358a-7b36-4287-9768-0d02a3a58550)
+
 
 
